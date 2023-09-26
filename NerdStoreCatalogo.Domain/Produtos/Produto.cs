@@ -16,7 +16,8 @@ namespace NerdStoreCatalogo.Domain.Produtos
             decimal valor,
             Guid idCategoria,
             DateTime dataCadastro,
-            string imagem
+            string imagem,
+            Dimensoes dimensoes
            )
         {
             Nome = nome;
@@ -26,6 +27,9 @@ namespace NerdStoreCatalogo.Domain.Produtos
             IdCategoria = idCategoria;
             DataDoCadastro = dataCadastro;
             Imagem = imagem;
+            Dimensoes = dimensoes;
+
+            Validar();
         }
 
         public void Ativar() => Ativo = true;
@@ -45,6 +49,7 @@ namespace NerdStoreCatalogo.Domain.Produtos
         public void DebitarEstoque(int quantidade)
         {
             if (quantidade < 0) quantidade *= -1;
+            if (!PossuiEstoque(quantidade)) throw new DomainException(message: "Estoque insuficiente");
             QuantidadeEstoque -= quantidade;
         }
 
@@ -60,7 +65,11 @@ namespace NerdStoreCatalogo.Domain.Produtos
 
         public void Validar()
         {
-
+            Validacoes.ValidarSeVazio(Nome, "O campo Nome do produto não pode estar vazio");
+            Validacoes.ValidarSeVazio(Descricao, "O campo Descricao do produto não pode estar vazio");
+            Validacoes.ValidarSeIgual(IdCategoria, Guid.Empty, "O campo CategoriaId do produto não pode estar vazio");
+            Validacoes.ValidarSeMenorQue(Valor, 1, "O campo Valor do produto não pode se menor igual a 0");
+            Validacoes.ValidarSeVazio(Imagem, "O campo Imagem do produto não pode estar vazio");
         }
 
         public string Nome { get; private set; }
@@ -72,6 +81,7 @@ namespace NerdStoreCatalogo.Domain.Produtos
         public int QuantidadeEstoque { get; private set; }
         public virtual Categoria Categoria { get; private set; }
         public Guid IdCategoria { get; private set; }
+        public Dimensoes Dimensoes { get; private set; }
 
     }
 }

@@ -1,0 +1,12 @@
+C:\Estudos\NerdStore\NerdStore.Core\bin\Debug\net6.0\NerdStore.Core.deps.json
+C:\Estudos\NerdStore\NerdStore.Core\bin\Debug\net6.0\NerdStore.Core.dll
+C:\Estudos\NerdStore\NerdStore.Core\bin\Debug\net6.0\NerdStore.Core.pdb
+C:\Estudos\NerdStore\NerdStore.Core\obj\Debug\net6.0\NerdStore.Core.csproj.AssemblyReference.cache
+C:\Estudos\NerdStore\NerdStore.Core\obj\Debug\net6.0\NerdStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\NerdStore\NerdStore.Core\obj\Debug\net6.0\NerdStore.Core.AssemblyInfoInputs.cache
+C:\Estudos\NerdStore\NerdStore.Core\obj\Debug\net6.0\NerdStore.Core.AssemblyInfo.cs
+C:\Estudos\NerdStore\NerdStore.Core\obj\Debug\net6.0\NerdStore.Core.csproj.CoreCompileInputs.cache
+C:\Estudos\NerdStore\NerdStore.Core\obj\Debug\net6.0\NerdStore.Core.dll
+C:\Estudos\NerdStore\NerdStore.Core\obj\Debug\net6.0\refint\NerdStore.Core.dll
+C:\Estudos\NerdStore\NerdStore.Core\obj\Debug\net6.0\NerdStore.Core.pdb
+C:\Estudos\NerdStore\NerdStore.Core\obj\Debug\net6.0\ref\NerdStore.Core.dll
