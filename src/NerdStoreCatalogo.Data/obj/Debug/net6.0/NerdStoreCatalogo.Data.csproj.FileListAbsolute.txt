@@ -1,0 +1,5 @@
+C:\Estudos\NerdStore\src\NerdStoreCatalogo.Data\obj\Debug\net6.0\NerdStoreCatalogo.Data.csproj.AssemblyReference.cache
+C:\Estudos\NerdStore\src\NerdStoreCatalogo.Data\obj\Debug\net6.0\NerdStoreCatalogo.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\NerdStore\src\NerdStoreCatalogo.Data\obj\Debug\net6.0\NerdStoreCatalogo.Data.AssemblyInfoInputs.cache
+C:\Estudos\NerdStore\src\NerdStoreCatalogo.Data\obj\Debug\net6.0\NerdStoreCatalogo.Data.AssemblyInfo.cs
+C:\Estudos\NerdStore\src\NerdStoreCatalogo.Data\obj\Debug\net6.0\NerdStoreCatalogo.Data.csproj.CoreCompileInputs.cache
