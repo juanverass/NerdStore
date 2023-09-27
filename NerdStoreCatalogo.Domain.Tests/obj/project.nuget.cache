@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "D4baCofQbFJ3NEAHx+W+eRNNpJRmTBZgD39IEl+1mYhuFxu4nmsxuNrY/CiuHJIugymdBLboemDGzkZlUKjtEA==",
+  "dgSpecHash": "/6Jn5CfmzSK496QnkTeYzh3SWrvGy+Yez0i1uB6CDs0lZxtYzNKeb/rASZgjxqxlcd81EpGouR+li++zNnqDCw==",
   "success": true,
   "projectFilePath": "C:\\Estudos\\NerdStore\\NerdStoreCatalogo.Domain.Tests\\NerdStoreCatalogo.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.11\\microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",

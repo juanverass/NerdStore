@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "gMtwmGNKs/x15RLp3lgspuGSdiIGbqyeeAOD3cNLB4i6fPleC2UMpaZuoeJIm/x0J2gDm9Hl1qVieKxiq9VB2Q==",
+  "dgSpecHash": "nBGbsL7iMzNArPxD2hcwkNSKNNp8iCO+RFXJywSQu+nEZjv2zriho4I5nHQuSWecRniePg0b8jrwWKDM+mBvTA==",
   "success": true,
   "projectFilePath": "C:\\Estudos\\NerdStore\\src\\NerdStoreCatalogo.Data\\NerdStoreCatalogo.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.1\\microsoft.data.sqlclient.5.1.1.nupkg.sha512",
