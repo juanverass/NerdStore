@@ -9,6 +9,10 @@ namespace NerdStoreCatalogo.Domain.Produtos
 {
     public class Produto : EntityBase, IAggregateRoot
     {
+        protected Produto()
+        {
+            
+        }
         public Produto(
             string nome,
             string descricao,

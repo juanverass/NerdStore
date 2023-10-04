@@ -47,7 +47,7 @@
           "dependencies": {
             "mediatr": {
               "target": "Package",
-              "version": "[12.1.1, )"
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
@@ -117,11 +117,11 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.11, )"
+              "version": "[6.0.19, )"
             },
             "mediatr": {
               "target": "Package",
-              "version": "[12.1.1, )"
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
@@ -265,19 +265,21 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[7.0.11, )"
-            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.11, )"
+              "version": "[6.0.19, )"
             },
-            "Microsoft.EntityFrameworkCore.sqlserver": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.11, )"
+              "version": "[6.0.19, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.19, )"
             }
           },
           "imports": [

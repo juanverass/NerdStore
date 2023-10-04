@@ -1,12 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Y8+/OMO06JCjPY4FnWlFFhye08HnseJzFLiPiYMYX3Ma+8gVtJxdK3D8cSCsrhhoMBWi0V0zFSwliCa+opmoiA==",
+  "dgSpecHash": "PILqc4uxKhS9kYfLMGi9O47tzi0X9SBWTbviV0Jv8euxa0PO9c7S9HhZbHYwvM10fqpc2DSgkc4r4fXvW3nf8Q==",
   "success": true,
   "projectFilePath": "C:\\Estudos\\NerdStore\\NerdStore.Core\\NerdStore.Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Admin\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+    "C:\\Users\\Admin\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

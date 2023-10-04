@@ -47,7 +47,7 @@
           "dependencies": {
             "mediatr": {
               "target": "Package",
-              "version": "[12.1.1, )"
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
@@ -206,11 +206,11 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.11, )"
+              "version": "[6.0.19, )"
             },
             "mediatr": {
               "target": "Package",
-              "version": "[12.1.1, )"
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
